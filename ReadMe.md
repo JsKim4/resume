@@ -11,7 +11,7 @@
 
 ## 경력 사항
 
--   그린스토어 2020/01 ~ 2020/02 IT본부 백엔드 개발자 근무
+-   그린스토어 2020/01 ~ 2021/02 IT본부 백엔드 개발자 근무
 
 ## 기술 스택
 
@@ -34,11 +34,12 @@
     -   Algorithm : [백준](https://www.acmicpc.net/user/ggi411) 사이트에서 문제풀이 진행(627문제 해결)
 
 
-# 주요 프로젝트
+# 진행 프로젝트
 
 ## 사내 프로젝트
-
+---
 ### 그린스토어
+---
 -   Green Store Family 매출 현황 어플리케이션
     -   기술 스택 : Spring Boot, Spring Security, Spring Data Jpa, Spring REST docs, JUnit5, Mssql
     -   기간 : 2020/08 ~ 2020/10
@@ -62,8 +63,9 @@
             -   월별 구매 누적 합계를 체크하여 회원의 등급을 올려주는 프로그램을 개발하여 Jenkins를 이용하여 스케줄링함
 
 ## 개인 프로젝트
-
+---
 ### 개인 프로젝트
+---
 -   [Shopping Mall](https://github.com/JsKim4/mall)
     -   기술 스택 : Spring Boot, Spring Security, Spring Data Jpa, Spring REST docs, JUnit5, flyway, Mssql
     -   기간 : 2020/11 ~ 2021/01
@@ -83,6 +85,7 @@
         -   BOJ에서 총 600개 이상의 문제를 해결하였고, 랭킹 1000위 이상을 달성할 수 있었음
     
 ### 스터디 프로젝트
+---
 -   [사내 알고리즘 스터디 운영](https://github.com/JsKim4/Grst-Algorithm)
     -   기술스택 : Java
     -   기간 :  2020/07 ~ 2020/10
