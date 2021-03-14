@@ -70,7 +70,20 @@
 ## 개인 프로젝트
 ---
 ### 개인 프로젝트
+
 ---
+-   [URL SHORTNER](https://github.com/JsKim4/URL_Shortening_Service)
+    -   기술 스택 : Spring Boot, Spring Data JPA, Redis, RabbitMQ, Docker
+    -   기간 :  2021/03 ~ 2021/03
+    -   개인 프로젝트
+    -   설명
+        -   긴 URL 을 짧게 Shorterning 해주는 서비스를 제공
+        -   짧아진 URL 별로 몇번의 요청이 있었는지 저장
+            -   요청시 RabbitMQ에 요청에 대한 데이터 저장 후 rdbms를 update 하는 방식을 채택함
+        -   짧아진 URL을 요청시 원래의 URL로 Redirecte
+            -   짧아진 URL 과 원래의 URL은 Redis를 통하여 관리함
+        
+
 -   [Shopping Mall](https://github.com/JsKim4/mall)
     -   기술 스택 : Spring Boot, Spring Security, Spring Data Jpa, Spring REST docs, JUnit5, flyway, Mssql
     -   기간 : 2020/11 ~ 2021/01
@@ -79,6 +92,10 @@
         -   사내에서 습득한 쇼핑몰 도메인 지식을 기반으로 하여 쇼핑몰에서 사용하는 API를 구현함
         -   클라이언트 프로그램은 존재하지 않고 REST API만으로 이루어진 프로젝트
         -   실제 클라이언트 개발자와 협업한다는 생각으로 개발진행
+        -   RestDocs 롤 통한 문서화 진행
+        -   JUnit5 를 통한 단위테스트 및 통합 테스트 진행
+        -   상속을 통한 Exception전략 수립 및 개발
+        -   Point 관련 정책 설립 및 개발
 
 -   [Baekjoon Online Judge 문제풀이](https://www.acmicpc.net/user/ggi411) 
     -   기술스택 : Java, C++
