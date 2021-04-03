@@ -85,7 +85,7 @@
             -   짧아진 URL 과 원래의 URL은 Redis를 통하여 관리함
         
 
--   [Shopping Mall](https://github.com/JsKim4/mall)
+-   [Shopping Mall](https://github.com/JsKim4/shopping_mall)
     -   기술 스택 : Spring Boot, Spring Security, Spring Data Jpa, Spring REST docs, JUnit5, flyway, Mssql
     -   기간 : 2020/11 ~ 2021/01
     -   개인 프로젝트
