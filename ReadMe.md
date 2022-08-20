@@ -12,6 +12,10 @@
 ## 경력 사항
 
 -   그린스토어 2020/01 ~ 2021/02 IT본부 백엔드 개발자 근무
+-   하이퍼커넥트 2021/04 ~ 2021/08 HyperX Backend Engineer
+-   라포랩스\ 
+        2021/09 ~ Retention Squad Backend Engineer\
+        2022/05 ~ Customer Tribe Backend Lead
 
 ## 자격 사항
 
@@ -44,6 +48,11 @@
 
 ## 사내 프로젝트
 ---
+### 하이퍼커넥트
+---
+HyperX 팀의 matrix studio 소속. Backend engineer.
+AI&AR 챗봇 메신저 프로젝트 개발. 신규 서비스 런칭.
+
 ### 그린스토어
 ---
 -   Green Store Family 매출 현황 어플리케이션
